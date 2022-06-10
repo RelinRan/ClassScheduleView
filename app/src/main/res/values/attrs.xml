@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ClassScheduleView">
+        <!--行数-->
+        <attr name="rowCount" format="integer" />
+        <!--列数-->
+        <attr name="columnCount" format="integer" />
+        <!--标题-->
+        <attr name="titleName" format="string|reference" />
+        <!--日期时间 2018年07月23日 星期一 第23周-->
+        <attr name="dateTime" format="string|reference" />
+        <!--外边距圆角-->
+        <attr name="borderRadius" format="dimension|reference" />
+        <!--标题高度-->
+        <attr name="titleHeight" format="dimension|reference" />
+        <!--标题左边距-->
+        <attr name="titleLeftPadding" format="dimension|reference" />
+        <!--标题右边距-->
+        <attr name="titleRightPadding" format="dimension|reference" />
+        <!--标题字体大小-->
+        <attr name="titleTextSize" format="dimension|reference" />
+        <!--标题分割线颜色-->
+        <attr name="titleDividerColor" format="color|reference" />
+        <!--标题文字颜色-->
+        <attr name="titleTextColor" format="color|reference" />
+        <!--标题左右箭头颜色-->
+        <attr name="titleTextLeftRightColor" format="color|reference" />
+        <!--标题左右箭头大小-->
+        <attr name="titleTextLeftRightArrowSize" format="dimension|reference" />
+        <!--日期时间颜色-->
+        <attr name="dateTimeColor" format="color|reference" />
+        <!--时间日期字体大小-->
+        <attr name="dateTimeTextSize" format="dimension|reference" />
+        <!--分割线颜色-->
+        <attr name="dividerColor" format="color|reference" />
+        <!--返回按钮颜色-->
+        <attr name="backCircleColor" format="color|reference" />
+        <!--边框线颜色-->
+        <attr name="backCircleWidth" format="dimension|reference" />
+        <!--边框线颜色-->
+        <attr name="borderLineColor" format="color|reference" />
+        <!--Item点击颜色-->
+        <attr name="itemPressedColor" format="color|reference" />
+    </declare-styleable>
+</resources>
