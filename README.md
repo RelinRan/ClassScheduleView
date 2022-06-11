@@ -1,11 +1,13 @@
 # ClassScheduleView
 横屏课表 
-# [Gitee - ClassScheduleView](https://gitee.com/relin/ClassScheduleView)
-# [Github - ClassScheduleView](https://github.com/RelinRan/ClassScheduleView)
 # 预览
 ![效果](./ic_preview.png)
-# AAR
-[class_schedule_view.aar](https://github.com/RelinRan/ClassScheduleView/blob/master/class_schedule_view.aar)
+# 资源
+|名字|资源|
+|-|-|
+|AAR|[class_schedule_view.aar](https://github.com/RelinRan/ClassScheduleView/blob/master/class_schedule_view.aar)|
+|Gitee|[ClassScheduleView](https://gitee.com/relin/ClassScheduleView)|
+|GitHub |[ClassScheduleView](https://github.com/RelinRan/ClassScheduleView)|
 # Maven
 1.build.grade | setting.grade
 ```
